@@ -1,0 +1,15 @@
+﻿branch,product,type,sales
+Praram2,Latte,Hot,15
+Praram9,Mocha,Hot,20
+Donmueng,Americano,Hot,20
+Praram2,Espresso,Hot,22
+Donmueng,Cocao,Hot,42
+Praram9,GreenTea,Hot,33
+Praram9,ThaiTea,Hot,45
+Donmueng,Latte,Cold,44
+Praram2,Mocha,Cold,38
+Praram9,Americano,Cold,10
+Praram2,Espresso,Cold,18
+Donmueng,Cocao,Cold,12
+Donmueng,GreenTea,Cold,35
+Donmueng,ThaiTea,Cold,23
